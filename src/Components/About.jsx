@@ -60,8 +60,8 @@ const About = () => {
                 <div className="right md:pt-10 max-w-lg">
                     <div className="flex flex-wrap justify-center">
                         {whatIdo.map((item) => (
-                            <div className="about-hover shadow-xl rounded hover:bg-black 
-                            hover:text-white p-4 text-center w-40 mx-4 mb-4">
+                            <div className="about-hover shadow-xl rounded 
+                            p-4 text-center w-40 mx-2 md:mx-6 mb-4">
                                 <div className='text-2xl'>{item.image}</div>
                                 <h4 className="font-bold">{item.title}</h4>
                                 <h4 className="text-sm">{item.description}</h4>

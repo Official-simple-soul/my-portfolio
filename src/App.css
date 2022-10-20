@@ -51,3 +51,7 @@ header {
   background-color: rgb(15, 15, 15) !important;
   color: white !important;
 }
+
+.skill-height {
+  height: 130px;
+}

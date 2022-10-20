@@ -1,4 +1,5 @@
-import { useState } from "react"
+import { useState } from "react";
+import logo from '../img/logo.jpg';
 
 export const Nav = () => {
     const NavLinks = [
@@ -18,7 +19,7 @@ export const Nav = () => {
     return (
             <nav className="flex justify-between items-center text-white relative container mx-auto">
                 <div className="nav-logo flex justify-between items-center">
-                    <img src='/img/logo.jpg' className="w-14 rounded-full" alt='logo'/>
+                    <img src={logo} className="w-14 rounded-full" alt='logo'/>
                     
                 </div>
                 <div>
