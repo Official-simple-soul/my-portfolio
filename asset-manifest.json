@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a2e4850c.css",
-    "main.js": "/my-portfolio/static/js/main.9d0c09d4.js",
+    "main.css": "/my-portfolio/static/css/main.adb196fd.css",
+    "main.js": "/my-portfolio/static/js/main.888e7f0a.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/header-image.png": "/my-portfolio/static/media/header-image.033b188796ad3123f802.png",
+    "static/media/wordpress-logo.png": "/my-portfolio/static/media/wordpress-logo.9269266955825876a560.png",
+    "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.e39ef5bcee2956087699.png",
+    "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.b2d0b0f8232f387e7033.png",
+    "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.10554a2aee27f55cfe3a.png",
+    "static/media/js-logo.png": "/my-portfolio/static/media/js-logo.6e93758abfe8f383c69b.png",
+    "static/media/logo.jpg": "/my-portfolio/static/media/logo.c16fd521ab03cb6a52d5.jpg",
+    "static/media/nicepage-logo.png": "/my-portfolio/static/media/nicepage-logo.b223bc16f710c06aea53.png",
+    "static/media/react-logo.png": "/my-portfolio/static/media/react-logo.b84415fdd328bb59b5aa.png",
+    "static/media/tailwind-logo.png": "/my-portfolio/static/media/tailwind-logo.961689ea6af1f712aaa2.png",
     "index.html": "/my-portfolio/index.html",
-    "main.a2e4850c.css.map": "/my-portfolio/static/css/main.a2e4850c.css.map",
-    "main.9d0c09d4.js.map": "/my-portfolio/static/js/main.9d0c09d4.js.map",
+    "main.adb196fd.css.map": "/my-portfolio/static/css/main.adb196fd.css.map",
+    "main.888e7f0a.js.map": "/my-portfolio/static/js/main.888e7f0a.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2e4850c.css",
-    "static/js/main.9d0c09d4.js"
+    "static/css/main.adb196fd.css",
+    "static/js/main.888e7f0a.js"
   ]
 }
