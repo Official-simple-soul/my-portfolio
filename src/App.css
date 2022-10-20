@@ -1,0 +1,53 @@
+header {
+  background: linear-gradient(rgba(0, 0, 0, 0.253), rgba(0, 0, 0, 0.273)), url(header-image.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navhov{
+  position: relative;
+}
+
+.navhov::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 8%;
+  background: white;
+  z-index: 1;
+  transition: 1s all ease;
+  border-radius: 10px;
+}
+
+.navhov::after{
+  content: "";
+  position: absolute;
+  bottom: -15%;
+  left: 0;
+  width: 0;
+  height: 7%;
+  background: white;
+  z-index: 1;
+  transition: 1s all ease;
+  border-radius: 10px;
+}
+
+.navhov:hover::before {
+  width: 100%;
+}
+
+.navhov:hover::after {
+  width: 50%;
+}
+
+.about-hover{
+  transition: all 1s ease-in-out;
+  cursor: pointer;
+}
+.about-hover:hover {
+  background-color: rgb(15, 15, 15) !important;
+  color: white !important;
+}
