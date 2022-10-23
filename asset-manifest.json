@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.adb196fd.css",
-    "main.js": "/my-portfolio/static/js/main.888e7f0a.js",
+    "main.css": "/my-portfolio/static/css/main.831eb90c.css",
+    "main.js": "/my-portfolio/static/js/main.acf72286.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/header-image.png": "/my-portfolio/static/media/header-image.033b188796ad3123f802.png",
+    "static/media/daura.png": "/my-portfolio/static/media/daura.5e7fb92c47e9d9ff8fc3.png",
+    "static/media/foodmania.png": "/my-portfolio/static/media/foodmania.7b14fc4a96d8d2d62117.png",
+    "static/media/kodeblog.png": "/my-portfolio/static/media/kodeblog.ab1f47dc4638ce1fb0e2.png",
+    "static/media/footballnow.png": "/my-portfolio/static/media/footballnow.334d2626eb205eaf948a.png",
+    "static/media/finsweet.png": "/my-portfolio/static/media/finsweet.1415e29607aa3663c306.png",
+    "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.dd11a34c6450f5b9ca7b.png",
     "static/media/wordpress-logo.png": "/my-portfolio/static/media/wordpress-logo.9269266955825876a560.png",
+    "static/media/restcountry.png": "/my-portfolio/static/media/restcountry.1291cdcca29dea4d1940.png",
     "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.e39ef5bcee2956087699.png",
     "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.b2d0b0f8232f387e7033.png",
     "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.10554a2aee27f55cfe3a.png",
@@ -14,12 +21,12 @@
     "static/media/react-logo.png": "/my-portfolio/static/media/react-logo.b84415fdd328bb59b5aa.png",
     "static/media/tailwind-logo.png": "/my-portfolio/static/media/tailwind-logo.961689ea6af1f712aaa2.png",
     "index.html": "/my-portfolio/index.html",
-    "main.adb196fd.css.map": "/my-portfolio/static/css/main.adb196fd.css.map",
-    "main.888e7f0a.js.map": "/my-portfolio/static/js/main.888e7f0a.js.map",
+    "main.831eb90c.css.map": "/my-portfolio/static/css/main.831eb90c.css.map",
+    "main.acf72286.js.map": "/my-portfolio/static/js/main.acf72286.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adb196fd.css",
-    "static/js/main.888e7f0a.js"
+    "static/css/main.831eb90c.css",
+    "static/js/main.acf72286.js"
   ]
 }
