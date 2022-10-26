@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.831eb90c.css",
-    "main.js": "/my-portfolio/static/js/main.aac7a2fd.js",
+    "main.css": "/my-portfolio/static/css/main.0f161582.css",
+    "main.js": "/my-portfolio/static/js/main.e4100a22.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/header-image.png": "/my-portfolio/static/media/header-image.033b188796ad3123f802.png",
     "static/media/daura.png": "/my-portfolio/static/media/daura.5e7fb92c47e9d9ff8fc3.png",
     "static/media/foodmania.png": "/my-portfolio/static/media/foodmania.7b14fc4a96d8d2d62117.png",
     "static/media/kodeblog.png": "/my-portfolio/static/media/kodeblog.ab1f47dc4638ce1fb0e2.png",
     "static/media/footballnow.png": "/my-portfolio/static/media/footballnow.334d2626eb205eaf948a.png",
+    "static/media/feedback-image-background.png": "/my-portfolio/static/media/feedback-image-background.08bec27fb6ec3d21e6b1.png",
+    "static/media/EMOJIS.png": "/my-portfolio/static/media/EMOJIS.24451a5d0ce27b9b0cf5.png",
     "static/media/finsweet.png": "/my-portfolio/static/media/finsweet.1415e29607aa3663c306.png",
+    "static/media/feedback-image4.jpeg": "/my-portfolio/static/media/feedback-image4.85905590794d43cb103e.jpeg",
     "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.dd11a34c6450f5b9ca7b.png",
     "static/media/wordpress-logo.png": "/my-portfolio/static/media/wordpress-logo.9269266955825876a560.png",
+    "static/media/giyu.jpeg": "/my-portfolio/static/media/giyu.fdb3add0d069f19173af.jpeg",
     "static/media/restcountry.png": "/my-portfolio/static/media/restcountry.1291cdcca29dea4d1940.png",
     "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.e39ef5bcee2956087699.png",
     "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.b2d0b0f8232f387e7033.png",
@@ -20,13 +24,14 @@
     "static/media/nicepage-logo.png": "/my-portfolio/static/media/nicepage-logo.b223bc16f710c06aea53.png",
     "static/media/react-logo.png": "/my-portfolio/static/media/react-logo.b84415fdd328bb59b5aa.png",
     "static/media/tailwind-logo.png": "/my-portfolio/static/media/tailwind-logo.961689ea6af1f712aaa2.png",
+    "static/media/feedback-image3.png": "/my-portfolio/static/media/feedback-image3.37a3d9f891ce4562ce6b.png",
     "index.html": "/my-portfolio/index.html",
-    "main.831eb90c.css.map": "/my-portfolio/static/css/main.831eb90c.css.map",
-    "main.aac7a2fd.js.map": "/my-portfolio/static/js/main.aac7a2fd.js.map",
+    "main.0f161582.css.map": "/my-portfolio/static/css/main.0f161582.css.map",
+    "main.e4100a22.js.map": "/my-portfolio/static/js/main.e4100a22.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.831eb90c.css",
-    "static/js/main.aac7a2fd.js"
+    "static/css/main.0f161582.css",
+    "static/js/main.e4100a22.js"
   ]
 }
