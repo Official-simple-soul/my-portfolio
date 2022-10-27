@@ -20,8 +20,18 @@ module.exports = {
       '8': '8px',
       '17': '17px',
     },
+    colors: {
+      transparent: 'transparent',
+      'black': '#212529',
+      'white': '#fff',
+      'rating': '#FFC107',
+      'bg': '#F8F9FA',
+      'ash': 'rgb(228, 226, 226)',
+    },
     extend: {
-       
+      width: {
+        '128': '32rem',
+      },
     },
   },
   plugins: [],

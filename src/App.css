@@ -3,6 +3,16 @@ header {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.navbg {
+  background: url(header-image.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-attachment: fixed;
 }
 
 .navhov{
@@ -52,6 +62,77 @@ header {
   color: white !important;
 }
 
-.skill-height {
-  height: 130px;
+.mid {
+  bottom: 50%;
+}
+
+.work-hover::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2) 50%, transparent);
+  z-index: 1;
+  transition: 1s all ease;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.357);
+}
+
+.work-hover::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  background-image: linear-gradient(to bottom right, transparent, rgba(253, 253, 253, 0.2) 50%);
+  z-index: 1;
+  transition: 1s all ease;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.357);
+}
+
+.work-hover:hover::before {
+  width: 100%;
+  height: 100%;
+}
+
+.work-hover:hover::after {
+  width: 100%;
+  height: 100%;
+}
+
+.work-title {
+  transition: all 1s ease-in-out;
+  opacity: 0;
+  z-index: 20;
+}
+.work-hover:hover .work-title {
+  opacity: 1 !important;
+  z-index: 20;
+}
+
+
+.feedbacks {
+  background: url('img/feedback-image-background.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#success-story {
+  background: url('img/EMOJIS.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  background: url('img/footer-image.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #212529;
 }

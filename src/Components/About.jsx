@@ -33,7 +33,7 @@ const About = () => {
     ]
 
     return (
-        <main className="py-10">
+        <main className="py-10 bg-bg" id="about">
             <h1 className="text-center font-bold text-4xl border-b-[8px] border-black w-40 mx-auto">ABOUT</h1>
             <div className="container mx-auto flex-col md:flex-row md:flex">
                 <div className="left pt-10 max-w-lg p-3">

@@ -47,7 +47,7 @@ const Skill = () => {
 
     return (
         <>
-            <main className='container mx-auto'>
+            <main className='container mx-auto py-8' id="skill">
                 <h1 className="text-center font-bold text-4xl border-b-[8px] 
                 border-black w-40 mx-auto">SKILL</h1>
                 <div className='py-8 px-4 flex flex-wrap justify-between items-center'>

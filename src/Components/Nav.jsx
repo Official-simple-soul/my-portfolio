@@ -1,15 +1,16 @@
+import { Outlet, Link } from 'react-router-dom'
 import { useState } from "react";
 import logo from '../img/logo.jpg';
 
 export const Nav = () => {
     const NavLinks = [
                         {name: 'HOME', link: '/'},
-                        {name: 'ABOUT', link: '/'},
-                        {name: 'SERVICE', link: '/'},
-                        {name: 'WORKS', link: '/'},
-                        {name: 'BLOG', link: '/'},
-                        {name: 'RESUME', link: '/'},
-                        {name: 'CONTACT', link: '/'}
+                        {name: 'ABOUT', link: '#about'},
+                        {name: 'SKILL', link: '#skill'},
+                        {name: 'WORKS', link: '#work'},
+                        {name: 'BLOG', link: '#blog'},
+                        {name: 'RESUME', link: '#resume'},
+                        {name: 'CONTACT', link: '#contact'}
                     ]
 
     const [openMenu, setOpenMenu] = useState(false);
@@ -23,13 +24,13 @@ export const Nav = () => {
                     
                 </div>
                 <div>
-                    <ul className={`md:flex md:items-center absolute bg-black left-0 right-0 
-                    text-center space-y-16 z-10 transition-all duration-300 ease-in 
-                    md:space-x-10 md:space-y-0 md:static 
-                    ${openMenu?'top-20':'top-[-600px]'}`}>
+                    <ul className={`md:bg-none py-4 z-40 md:flex md:items-center absolute top-20 
+                    text-center space-y-14 z-10 transition-all duration-300 ease-in 
+                    lg:space-x-6 md:space-y-0 md:static 
+                    ${openMenu?'left-0 right-0 navbg':'left-[-600px]'}`}>
                         {NavLinks.map((item) => (
                             <li key={item.name} className="">
-                                <a href={item.link} className="navhov">{item.name}</a>
+                                <a class="mx-3 navhov" href={item.link}>{item.name}</a>
                             </li>
                         ))}
                     </ul>
