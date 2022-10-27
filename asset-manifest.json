@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.f9b46245.css",
-    "main.js": "/my-portfolio/static/js/main.23147b7a.js",
+    "main.css": "/my-portfolio/static/css/main.b0dfec4b.css",
+    "main.js": "/my-portfolio/static/js/main.2691a84f.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/header-image.png": "/my-portfolio/static/media/header-image.033b188796ad3123f802.png",
     "static/media/daura.png": "/my-portfolio/static/media/daura.5e7fb92c47e9d9ff8fc3.png",
@@ -22,17 +22,18 @@
     "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.10554a2aee27f55cfe3a.png",
     "static/media/js-logo.png": "/my-portfolio/static/media/js-logo.6e93758abfe8f383c69b.png",
     "static/media/logo.jpg": "/my-portfolio/static/media/logo.c16fd521ab03cb6a52d5.jpg",
+    "static/media/contactNew.png": "/my-portfolio/static/media/contactNew.98a17cbb85e8055cc2f4.png",
     "static/media/nicepage-logo.png": "/my-portfolio/static/media/nicepage-logo.b223bc16f710c06aea53.png",
     "static/media/react-logo.png": "/my-portfolio/static/media/react-logo.b84415fdd328bb59b5aa.png",
     "static/media/tailwind-logo.png": "/my-portfolio/static/media/tailwind-logo.961689ea6af1f712aaa2.png",
     "static/media/feedback-image3.png": "/my-portfolio/static/media/feedback-image3.37a3d9f891ce4562ce6b.png",
     "index.html": "/my-portfolio/index.html",
-    "main.f9b46245.css.map": "/my-portfolio/static/css/main.f9b46245.css.map",
-    "main.23147b7a.js.map": "/my-portfolio/static/js/main.23147b7a.js.map",
+    "main.b0dfec4b.css.map": "/my-portfolio/static/css/main.b0dfec4b.css.map",
+    "main.2691a84f.js.map": "/my-portfolio/static/js/main.2691a84f.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9b46245.css",
-    "static/js/main.23147b7a.js"
+    "static/css/main.b0dfec4b.css",
+    "static/js/main.2691a84f.js"
   ]
 }
