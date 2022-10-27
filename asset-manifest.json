@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b0dfec4b.css",
-    "main.js": "/my-portfolio/static/js/main.2691a84f.js",
+    "main.css": "/my-portfolio/static/css/main.a858ce48.css",
+    "main.js": "/my-portfolio/static/js/main.9d829267.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/header-image.png": "/my-portfolio/static/media/header-image.033b188796ad3123f802.png",
     "static/media/daura.png": "/my-portfolio/static/media/daura.5e7fb92c47e9d9ff8fc3.png",
@@ -28,12 +28,12 @@
     "static/media/tailwind-logo.png": "/my-portfolio/static/media/tailwind-logo.961689ea6af1f712aaa2.png",
     "static/media/feedback-image3.png": "/my-portfolio/static/media/feedback-image3.37a3d9f891ce4562ce6b.png",
     "index.html": "/my-portfolio/index.html",
-    "main.b0dfec4b.css.map": "/my-portfolio/static/css/main.b0dfec4b.css.map",
-    "main.2691a84f.js.map": "/my-portfolio/static/js/main.2691a84f.js.map",
+    "main.a858ce48.css.map": "/my-portfolio/static/css/main.a858ce48.css.map",
+    "main.9d829267.js.map": "/my-portfolio/static/js/main.9d829267.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0dfec4b.css",
-    "static/js/main.2691a84f.js"
+    "static/css/main.a858ce48.css",
+    "static/js/main.9d829267.js"
   ]
 }
